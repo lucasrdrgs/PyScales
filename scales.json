@@ -1,0 +1,86 @@
+[
+	{
+		"name": "Ionian/Major (major)",
+		"semitones": [2, 2, 1, 2, 2, 2, 1]
+	},
+	{
+		"name": "Harmonic Minor (minor)",
+		"semitones": [2, 1, 2, 2, 1, 3, 1]
+	},
+	{
+		"name": "Phrygian Dominant (dom. 7th minor)",
+		"semitones": [1, 3, 1, 2, 1, 2, 2]
+	},
+	{
+		"name": "Dorian (minor)",
+		"semitones": [2, 1, 2, 2, 2, 1, 2]
+	},
+	{
+		"name": "Phrygian (minor)",
+		"semitones": [1, 2, 2, 2, 1, 2, 2]
+	},
+	{
+		"name": "Lydian (major)",
+		"semitones": [2, 2, 2, 1, 2, 2, 1]
+	},
+	{
+		"name": "Mixolydian (dom. 7th major)",
+		"semitones": [2, 2, 1, 2, 2, 1, 2]
+	},
+	{
+		"name": "Aeolian (minor)",
+		"semitones": [2, 1, 2, 2, 1, 2, 2]
+	},
+	{
+		"name": "Locrian (minor/dim.)",
+		"semitones": [1, 2, 2, 1, 2, 2, 2]
+	},
+	{
+		"name": "Melodic Minor (minor)",
+		"semitones": [2, 1, 2, 2, 2, 2, 1]
+	},
+	{
+		"name": "Major 7#4#5 (major)",
+		"semitones": [2, 2, 2, 2, 1, 2, 1]
+	},
+	{
+		"name": "Lydian Dominant (dom. 7th melodic minor)",
+		"semitones": [2, 2, 2, 1, 2, 1, 2]
+	},
+	{
+		"name": "Minor 7b5 (minor)",
+		"semitones": [2, 1, 2, 2, 1, 2, 2, 2]
+	},
+	{
+		"name": "Super Locrian (dom. 7th melodic minor)",
+		"semitones": [1, 2, 1, 2, 2, 2, 2]
+	},
+	{
+		"name": "Harmonic Minor (minor)",
+		"semitones": [2, 1, 2, 2, 1, 3, 1]
+	},
+	{
+		"name": "Whole Tone (major)",
+		"semitones": [2, 2, 2, 2, 2, 2]
+	},
+	{
+		"name": "Major Pentatonic (major)",
+		"semitones": [2, 2, 3, 2, 3]
+	},
+	{
+		"name": "Major Blues Pentatonic (major)",
+		"semitones": [2, 1, 1, 3, 2, 3]
+	},
+	{
+		"name": "Minor Pentatonic (minor)",
+		"semitones": [3, 2, 2, 3, 2]
+	},
+	{
+		"name": "Blues Scale (minor)",
+		"semitones": [3, 2, 1, 1, 3, 2]
+	},
+	{
+		"name": "Minor 6th Pentatonic (minor)",
+		"semitones": [3, 2, 2, 2, 3]
+	}
+]
